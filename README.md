@@ -38,7 +38,10 @@ create and edit UI directly in the editor, without the need for textures
 
 ## Videos
 
+Demo
 [![Demo Video](https://i.vimeocdn.com/video/662254189.jpg?mw=960&mh=540)](https://vimeo.com/239311115)
+
+Wireframe Demo
 [![Demo Video Wireframe](https://i.vimeocdn.com/video/662255495.jpg?mw=960&mh=540)](https://vimeo.com/239312415)
 
 ## License
