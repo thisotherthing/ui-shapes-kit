@@ -1,6 +1,6 @@
 # UI Shapes Kit
 
-<img src="images/icon.png" alt="UI Shapes Kit" align="right">
+<img src="images/icon.png" alt="UI Shapes Kit">
 
 create and edit UI directly in the editor, without the need for textures
 
@@ -33,8 +33,8 @@ create and edit UI directly in the editor, without the need for textures
 
 ## Images
 
-<img src="images/window.png" alt="Editor" width="100px;" align="right">
-<img src="images/shapes.png" alt="Editor" width="100px;" align="right">
+<img src="images/window.png" alt="editor">
+<img src="images/shapes.png" alt="shapes">
 
 ## Videos
 
