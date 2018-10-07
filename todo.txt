@@ -1,0 +1,11 @@
+- optimize PointsGenerators by caching sin/cos resuls
+- add arrow line caps
+- add point drawer with PointList?
+- add dashed line drawer with PointList?
+- shadows
+	- add resolution and radius overrider?
+- maybe inner glow
+- add UVs to shapes
+	- normalized on shape bounds
+	- screenspace (have same texture across multiple shapes without seams)
+- add shift move axis snapping to point list editor
