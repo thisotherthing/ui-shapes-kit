@@ -7,7 +7,15 @@ namespace ThisOtherThing.UI.Shapes
 	[AddComponentMenu("UI/Shapes/Rectangle", 1)]
 	public class Rectangle : MaskableGraphic, IShape
 	{
-        	public override Color color { get => ShapeProperties.FillColor; set => ShapeProperties.FillColor = value; }
+		public override Color color
+		{
+		    get => ShapeProperties.FillColor;
+		    set
+		    {
+			ShapeProperties.FillColor = value;
+			SetVerticesDirty();
+		    }
+		}
 
 		public GeoUtils.OutlineShapeProperties ShapeProperties =
 			new GeoUtils.OutlineShapeProperties();
