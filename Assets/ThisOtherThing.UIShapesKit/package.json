@@ -1,0 +1,12 @@
+{
+    "name": "com.thisotherthing.uishapeskit",
+    "version": "1.0.0",
+    "displayName": "UI Shapes Kit",
+    "description": "Procedural shapes for Unity UI",
+    "unity": "2018.4",
+    "author": {
+        "name": "Stefan Kernjak",
+        "url": "https://www.thisotherthing.co/"
+    },
+    "dependencies": {}
+}
