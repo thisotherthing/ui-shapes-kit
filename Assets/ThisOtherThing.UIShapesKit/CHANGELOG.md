@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/adrenak/ui-shapes-kit/compare/v1.0.1...v1.0.2) (2020-03-11)
+
+
+### Bug Fixes
+
+* setup asmdefs ([d64024e](https://github.com/adrenak/ui-shapes-kit/commit/d64024e60bba46df0586fcb7c2c93e150d3fa4f5))
+
 ## [1.0.1](https://github.com/adrenak/ui-shapes-kit/compare/v1.0.0...v1.0.1) (2020-03-11)
 
 
