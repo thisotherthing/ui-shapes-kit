@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/adrenak/ui-shapes-kit/compare/v1.0.2...v1.0.3) (2020-04-05)
+
+
+### Bug Fixes
+
+* Project reorf ([b5027da](https://github.com/adrenak/ui-shapes-kit/commit/b5027da292951ba44854fa960dbf68ebbe3d1b74))
+
 ## [1.0.2](https://github.com/adrenak/ui-shapes-kit/compare/v1.0.1...v1.0.2) (2020-03-11)
 
 
