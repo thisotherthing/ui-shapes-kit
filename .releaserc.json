@@ -5,14 +5,14 @@
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", { 
       "preset": "angular",
-      "changelogFile":"Assets/ThisOtherThing.UIShapesKit/CHANGELOG.md"
+      "changelogFile":"Packages/ThisOtherThing.UIShapesKit/CHANGELOG.md"
     }],
     ["@semantic-release/npm", { 
       "npmPublish": false,
-      "pkgRoot":"Assets/ThisOtherThing.UIShapesKit/"
+      "pkgRoot":"Packages/ThisOtherThing.UIShapesKit/"
     }],
     ["@semantic-release/git", {
-      "assets": ["Assets/ThisOtherThing.UIShapesKit/package.json", "Assets/ThisOtherThing.UIShapesKit/CHANGELOG.md"],
+      "assets": ["Packages/ThisOtherThing.UIShapesKit/package.json", "Packages/ThisOtherThing.UIShapesKit/CHANGELOG.md"],
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }],
     "@semantic-release/github"
