@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/adrenak/ui-shapes-kit/compare/v1.0.4...v1.0.5) (2020-04-07)
+
+
+### Bug Fixes
+
+* Move project files to Assets/ ([f88c805](https://github.com/adrenak/ui-shapes-kit/commit/f88c8051e172a56665a442155bf4c0432cfcfcdf))
+
 ## [1.0.4](https://github.com/adrenak/ui-shapes-kit/compare/v1.0.3...v1.0.4) (2020-04-05)
 
 
