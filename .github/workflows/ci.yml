@@ -40,7 +40,7 @@ jobs:
         fi
         git push -f -u origin upm
       env:
-        PKG_ROOT: "Packages/ThisOtherThing.UIShapesKit"
+        PKG_ROOT: "Assets/ThisOtherThing.UIShapesKit"
 
 
     - name: Create upm git tag
