@@ -1,6 +1,8 @@
+_Note_ This is a forked version of the [original repo](https://github.com/thisotherthing/ui-shapes-kit) modified for UPM without much other changes.
+
 # UI Shapes Kit
 
-<img src="images/icon.png" alt="UI Shapes Kit">
+<img src="../../images/icon.png" alt="UI Shapes Kit">
 
 create and edit UI directly in the editor, without the need for textures
 
@@ -33,8 +35,8 @@ create and edit UI directly in the editor, without the need for textures
 
 ## Images
 
-<img src="images/window.png" alt="editor">
-<img src="images/shapes.png" alt="shapes">
+<img src="../../images/window.png" alt="editor">
+<img src="../../images/shapes.png" alt="shapes">
 
 ## Videos
 
